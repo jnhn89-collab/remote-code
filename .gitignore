@@ -1,0 +1,11 @@
+# Ignore secrets
+.streamlit/secrets.toml
+client_secrets.json
+
+# Ignore python cache
+__pycache__/
+*.pyc
+
+# Ignore virtual env
+venv/
+.env
